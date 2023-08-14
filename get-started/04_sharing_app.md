@@ -48,7 +48,7 @@ In the following image, you can see an example Docker command from Docker Hub. T
 
 2. Sign in to Docker Hub using the command `docker login -u YOUR-USER-NAME`.
 
-3. Use the `docker tag` command to give the `getting-started` image a new name. Replace `YOUR-USER-NAME` with your Docker ID.
+3. Use the `docker tag` command to give the `getting-started` image a new name. Replace `YOUR-USER-NAME` with your own user-name on docker namespace.
 
    ```console
    $ docker tag getting-started YOUR-USER-NAME/getting-started
